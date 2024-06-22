@@ -1,0 +1,21 @@
+[04-Dec-2023 05:03:05 UTC] PHP Warning:  require(/home/assmnsahapp/public_html/assets-management-app/vendor/autoload.php): failed to open stream: No such file or directory in /home/assmnsahapp/public_html/assets-management-app/artisan on line 18
+[04-Dec-2023 05:03:05 UTC] PHP Warning:  require(/home/assmnsahapp/public_html/assets-management-app/vendor/autoload.php): failed to open stream: No such file or directory in /home/assmnsahapp/public_html/assets-management-app/artisan on line 18
+[04-Dec-2023 05:03:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/assmnsahapp/public_html/assets-management-app/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/assmnsahapp/public_html/assets-management-app/artisan on line 18
+[04-Dec-2023 05:24:10 UTC] PHP Warning:  require(/home/assmnsahapp/public_html/assets-management-app/vendor/autoload.php): failed to open stream: No such file or directory in /home/assmnsahapp/public_html/assets-management-app/artisan on line 18
+[04-Dec-2023 05:24:10 UTC] PHP Warning:  require(/home/assmnsahapp/public_html/assets-management-app/vendor/autoload.php): failed to open stream: No such file or directory in /home/assmnsahapp/public_html/assets-management-app/artisan on line 18
+[04-Dec-2023 05:24:10 UTC] PHP Fatal error:  require(): Failed opening required '/home/assmnsahapp/public_html/assets-management-app/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/assmnsahapp/public_html/assets-management-app/artisan on line 18
+[04-Dec-2023 11:43:08 UTC] PHP Warning:  copy(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[04-Dec-2023 11:43:08 UTC] PHP Warning:  copy(https://getcomposer.org/installer): Failed to open stream: no suitable wrapper could be found in Command line code on line 1
+[04-Dec-2023 11:43:08 UTC] PHP Warning:  hash_file(composer-setup.php): Failed to open stream: No such file or directory in Command line code on line 1
+[04-Dec-2023 11:43:08 UTC] PHP Warning:  unlink(composer-setup.php): No such file or directory in Command line code on line 1
+[04-Dec-2023 11:43:09 UTC] PHP Warning:  unlink(composer-setup.php): No such file or directory in Command line code on line 1
+[04-Dec-2023 11:43:22 UTC] PHP Warning:  copy(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[04-Dec-2023 11:43:22 UTC] PHP Warning:  copy(https://getcomposer.org/installer): Failed to open stream: no suitable wrapper could be found in Command line code on line 1
+[04-Dec-2023 11:43:22 UTC] PHP Warning:  hash_file(composer-setup.php): Failed to open stream: No such file or directory in Command line code on line 1
+[04-Dec-2023 11:43:22 UTC] PHP Warning:  unlink(composer-setup.php): No such file or directory in Command line code on line 1
+[04-Dec-2023 11:43:22 UTC] PHP Warning:  unlink(composer-setup.php): No such file or directory in Command line code on line 1
+[04-Dec-2023 11:43:46 UTC] PHP Warning:  copy(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[04-Dec-2023 11:43:46 UTC] PHP Warning:  copy(https://getcomposer.org/installer): Failed to open stream: no suitable wrapper could be found in Command line code on line 1
+[04-Dec-2023 11:43:55 UTC] PHP Warning:  hash_file(composer-setup.php): Failed to open stream: No such file or directory in Command line code on line 1
+[04-Dec-2023 11:43:55 UTC] PHP Warning:  unlink(composer-setup.php): No such file or directory in Command line code on line 1
+[04-Dec-2023 11:44:38 UTC] PHP Warning:  unlink(composer-setup.php): No such file or directory in Command line code on line 1

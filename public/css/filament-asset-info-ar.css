@@ -1,0 +1,29 @@
+*{
+    direction: rtl;
+}
+dl div{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(5, auto);
+    row-gap: 1px;
+}
+dl div div:first-child{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+dl div div:first-child div div{
+    display: flex;
+    flex-direction: column;
+}
+dl div div:nth-child(2){
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+dl div div:nth-child(7){
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+dl div div:nth-child(8){
+    grid-column-start: 1;
+    grid-column-end: 2;
+}

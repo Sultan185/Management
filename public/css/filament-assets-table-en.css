@@ -1,0 +1,31 @@
+thead tr >th.fi-ta-cell,
+thead tr >th.w-1 ,
+tbody tr td.fi-ta-cell,
+thead tr th.fi-table-header-cell-created-at,
+thead tr th.fi-table-header-cell-updated-at{
+    display: none;
+}
+
+tbody tr td.fi-table-cell-name,
+tbody tr td.fi-table-cell-barcode-number,
+tbody tr td.fi-table-cell-category\.name,
+tbody tr td.fi-table-cell-location,
+tbody tr td.fi-table-cell-responsible,
+tbody tr td.fi-table-cell-purchase-date
+{
+    display: table-cell;
+}
+
+table{
+    border: 1px solid black;
+    width: 100%;
+}
+table tr th, table tr td{
+    border: 1px solid black;
+
+}
+table tr a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
